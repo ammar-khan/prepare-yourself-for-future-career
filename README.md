@@ -1,6 +1,6 @@
 # Guide how to prepare yourself for the future career requirements
 
->**Worth [reading this](tips.md) before going further**
+>**Worth [reading this](tips.md) before going further...**
 ---
 
 When you think about your future career, what comes to mind? If you’re like many people, you might envision a steady stream of jobs in one industry, each one bringing you to the next level of success.
@@ -56,7 +56,8 @@ This addition to your resume can show that you are serious about your new career
 
 #### Evaluate Your Personal Brand
 Your personal brand—how you present your professional self online and in your job search documents—may need an overhaul. Are you using the most current industry verbiage in your professional social media bios? Are you following subject matter experts to stay on top of the trends? Is your resume updated to show how your skills work for your new career? Be sure to highlight your transferrable skills and show how they can benefit a company.
----
+
+
 ## More to read:
 - [Company Culture](./company-culture.md)
 - [Create Elevation Pitch](./create-elevator-pitch.md)
@@ -65,8 +66,6 @@ Your personal brand—how you present your professional self online and in your 
 - [Personal Brand](./personal-brand.md)
 - [Self Marketing](./self-marketing.md)
 - [Transferable Skills](transferable-skills.md)
-
-
 
 ---
 **Resource and Credits:**
