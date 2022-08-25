@@ -1,8 +1,5 @@
 # Guide how to prepare yourself for the future career requirements
 
->**Worth [reading this](tips.md) before going further...**
----
-
 When you think about your future career, what comes to mind? If you’re like many people, you might envision a steady stream of jobs in one industry, each one bringing you to the next level of success.
 
 That type of career, however, isn’t as common as it once was. According to statistics, baby boomers held around 12 jobs by the time they turned 52, but half of those jobs were held between the ages of 18 and 24. People change jobs and external factors force jobs to change. The global pandemic, for example, has shown how quickly different career paths and company growth plans can be altered. While one company may be experiencing rapid growth, others may be in survival mode.
@@ -59,6 +56,7 @@ Your personal brand—how you present your professional self online and in your 
 
 
 ## More to read:
+- [Tips](./tips.md)
 - [Company Culture](./company-culture.md)
 - [Create Elevation Pitch](./create-elevator-pitch.md)
 - [How to Write Resume](./how-to-write-resume)
