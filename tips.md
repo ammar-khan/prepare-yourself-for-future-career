@@ -4,126 +4,123 @@
 ##### Understanding of Requirements
 ---
 
-As human thinking and mind evolving continiously, we need new challenges to meet.
-
-As human generations and technologies are changing rapidly we need to make sure we will meet the mindset needed for the future.
+As human mind evolving continiously and generations and technologies are changing rapidly 
+we need to make sure we will meet the mindset needed for the future.
 
 ---
-From 200,000,000 BC to 1,200 BC, humans transform materials like (Stone age):
+**Stone Age**
+From 200,000,000 BC to 1,200 BC, humans transform materials like:
 - Stone tools
 - Bronze tools
 - Iron tools
 
-From 1780 to 1973, humans transform energy like (industrial age):
+**Inductiral Age**
+From 1780 to 1973, humans transform energy like:
 - Water power
 - Steam power
 - Electric power
 - Combustion power
 
-From 1974 to 2008, humans were communication and storing information (Technology & Information age)
+**Technology & Information Age**
+From 1974 to 2008, humans were communication and storing information
 
-From 2008 onwards, humans are computing and analysing information (Wisdom age)
+**Wisdom Age**
+From 2008 onwards, humans are computing and analysing information
 
 ---
 
-There is a saying, developed later in the 1700s
+Developed later in the 1700s, there is a saying, 
 >Jack of all trades master of none
 
 And that was true till 2008.
-But after 2008, we have enough information available on Google about things and procedures in text, audio and video formats that we don't need a master of one.
+But after 2008, we have enough information available on Internet, we don't need a master of one anymore.
 
-Employer now a days need someone smart enough to use and analyse stored information and pick what is more suitable and best fit for the organisation.
+Employer now a days need someone smart enough to use and analyse available information and choose what is more suitable and best fit for the organisation.
 
-Therefore a candidate who has more knowlwdge &understanding of most of the moving pieces related to the industry (including experience, education, certifications, tools etc.) and having can do attitute of learning new things, is ideal to connect all dot without waiting for someone to do the work.
+Therefore a candidate who has more knowledge & understanding of moving pieces related to the job (including experience, education, certifications, tools etc.) 
+is ideal to connect all dots without waiting for someone to do the work
 
-Having more technical knowledge is also not enough, ideal candidate should have people/personal skills or soft skills and these skills are more important for the employers now a days, because learning new skills are easier then changing behaviour.
+Ideal candidates should have, can do attitute of learning new things.
 
-Ideal candidate should be a master and more focused on People/Personal skills then Tech skills.
+Having technical skills are not enough, ideal candidate should have people/personal skills or soft skills and these skills are more important for the employers now a days, because learning new skills are easier then changing behaviour.
+
+Ideal candidate should possess People/Personal skills as well as Technical skills.
 
 ##### Market Yourself
 ---
 
-Treat resume as your television advertisement like Shaving Razor ads.
+Treat your resume as an advertisement.
 
-What makes Shaving Razor advertisement catchy:
-- A handsome guy aleady clean shaved 
-- A sports car or sports motor bike, black or red in colour
-- A beautiful background where he parked the car or the bike
-- A beautiful house and bathroom where he shave
-- A beautiful office and social gathering where he go after shaving his beard 
-- And last and more imortant a beautiful girl (which has no direct link with the Shaving Razor)
+Lets take an example of Shaving Razor ads.
 
->Notice the ads only provide you enough information which attracts you and makes you curious about the product, and you want to spend your time and money to explore more about the product.
+What makes Shaving Razor advertisement catchy?
+- A handsome guy who is already clean shaved 
+- A sports car or sports bike, black or red in colour
+- A beautiful scenery, where he parked the car or the bike
+- A beautiful house and bathroom, where he shave his beard
+- A beautiful office and social gathering, where he go after shaving his beard 
+- And last and more imortant a beautiful girl (she is not a consumer of Shaving Razor)
+
+>Notice the ads only provide you enough information to attracts you and makes you curious about the product, and you want to spend your time and money to explore more about the product.
 
 >Why a beautiful girl is more important, because she stand out the product from other products.
-> Example, you have 50 white active & healthy chickens and 1 a lazy brown one, you will noticed, the brown one stand out always, does not matter she is active or lazy.
 
 **I recommend the same for the resume.**
 
 - Think about Applicant Tracking Software (ATS)
   - Use keywords more then other commentary.
-- Only provide information which is required (not less nor more).
-  - Add curiosity to the recruiters/hr to contact you and know more about you
+- Only provide information which is required to make recruiters/hr curious about you.
 - It should stand out 
   - Design, Layout, Colours etc.
 
-Remember, your resume will go though 2 screenings innitially:
-- Applicant Tracking Software (ATS)
-- Recruiter / HR person
+Remember, your resume should pass two(2) screenings initially:
+- **Applicant Tracking Software (ATS)** - by providing all required keywords
+- **Recruiter / HR person** - by standing out and develop curiosity
 
-You need your resume to pass both screening:
-
-**ATS** by providing all required keywords
-
-**Person** by standing out and develop curiosity
-
-##### Standing out from the crowd (Win Win)
+##### Standing out your resume from the crowd (Win Win)
 ---
-**ATS**
+**Applicant Tracking Software (ATS)**
 
-Imagine if you are applying for a job in a company looking for 2 candidates. 
+On average 1 job recieves 25 applications and out of 25 only top 1-2 candidates from the list filtered by ATS will be contacted.
 
-Its not only you who is applying for that job, on average 1 job recieves 25 applications and out of 25 only top 2 candidates from the list will be contacted which is filtered by ATS based on keywords matched.
+> Use as much keywords mentioned in job description, to keep you at the top of the list.
 
-Design a resume which contains all or maximum number of keywords, so you should always appear in top 2 in the list of matching candicates.
+**Recruiter / HR person**
 
-**Person**
-
-You resume design, layout and colours makes it unique and standout for a person looking at it
-
-Content of your resume should develop curiosity in person to book a time with you or explore more.
+> Resume design, layout and colours makes it unique and stand out
+> Content of resume should develop curiosity to explore more about you.
 
 ##### Resume file format
 
-Alway sent PDF file of your resume it is easy to transfer to different machines as well as it keeps the layout, fonts and images intact.
+Alway sent PDF file of your resume, it is easy to transfer to different machines as well as it keeps the original layout, fonts and images.
 
->Keep a word format or plain PDF format of your resume as well, because sometime recruiters want to copy/paste your resume to their company template, without your contact information and pass it to the employer.
+>Keep a word format or plain PDF format of your resume as well, because sometime recruiters wants to copy/paste resume to their own template, without your contact information and pass it to the employer.
 
 ##### Prepare for the interview
-You will be contact min 2 times for interview
-- Recruiter 
-- Employer
+In most cases there are two(2) initial interviews
+- Interview with Recruiter 
+- Interview with Employer
 
-You should prepare yourself (mentioned in this guide) for the interview 
+Prepare yourself (mentioned in this guide) for the interview 
 
-Write it and learn by heart what to say and how to say.
+Write your best answer using STAR method
 
->Remember, interview now a days is not for hiring you as a resource, it is more about services you will provide
+>Remember, interview is bi directional 
+>Employer will ask about about services you can provide
+>Employee will ask about growth, learning, incentives and culture of the organisation
 
->Employer will interview you about your services you can provide 
+>**Note**: Interview is very important and crucial part, so be prepare and pay attention, if you are going to join a right organisation where you can grow or a toxic organisation before signing the contract (Analysing Company Culture is also available in this guide). 
 
->You will interview employer about growth, learning, incentives and culture of the organisation
+**Interview with Recruiters**
 
->**Note**: Interview is very important and crucial part, so be prepare and pay attention if you are going to join a right organisation where you can grow or a toxic organisation. 
+- Prepare brief about you
+- Prepare 1-2 recent projects using STAR method
+- Define and ask about opportunities, organisation, incentives, salary and culture you are looking for (This will help recruiter to understand your requirements).
 
-**Recruiter Interview**
+**Interview with Employer**
+- Prepare Brief about you (more technical)
+- Prepare technical achievements using STAR method 
+- Ask about oportunities within organisation, incentives, salary, culture of the company and ways of working.
+- Ask the outcome of the interview (this gives you an oportunity to get some indication about the outcome as well as it gives you opportunity to add more details to what employer is looking for.
+- Negotiate if required
 
-- Brief history about you
-- 1-2 recent projects 
-- Focus on what you type of opportunities,organisation, incentives, salary and culture you are looking for.
-
-**Employer Interview**
-- Brief history about you
-- Technical achievements 
-- Focus on oportunities within organisation, incentives, salary and culture of the company.
-- Ask the outcome of the interview, this gives you an oportunity to comeup with the outcome as well as give more explaination if any thing employer is looking for.
