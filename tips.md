@@ -111,7 +111,9 @@ Prepare yourself (mentioned in this guide) for the interview
 Write your best answer using STAR method
 
 >Remember, interview is bi directional 
+>
 >Employer will ask about about services you can provide
+>
 >Employee will ask about growth, learning, incentives and culture of the organisation
 
 >**Note**: Interview is very important and crucial part, so be prepare and pay attention, if you are going to join a right organisation where you can grow or a toxic organisation before signing the contract (Analysing Company Culture is also available in this guide). 
