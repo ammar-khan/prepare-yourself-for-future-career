@@ -22,7 +22,7 @@ From 1780 to 1973, humans transform energy like:
 
 **Technology & Information Age**
 
-From 1974 to 2008, humans were communication and storing information
+From 1974 to 2008, humans were communicating and storing information
 
 **Wisdom Age**
 
