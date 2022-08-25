@@ -1,7 +1,7 @@
-#### Why to Prepare for Future Career
+## Why to Prepare for Future Career
 ---
 
-##### Understanding of Requirements
+### Understanding of Requirements
 ---
 
 As human mind evolving continiously; generations and technologies are changing rapidly 
@@ -50,7 +50,7 @@ Having technical skills are not enough, ideal candidate should have people/perso
 
 Ideal candidate should possess People/Personal skills as well as Technical skills.
 
-##### Market Yourself
+### Market Yourself
 ---
 
 Treat your resume as an advertisement.
@@ -81,7 +81,7 @@ Remember, your resume should pass two(2) screenings initially:
 - **Applicant Tracking Software (ATS)** - by providing all required keywords
 - **Recruiter / HR person** - by standing out and develop curiosity
 
-##### Standing out your resume from the crowd (Win Win)
+### Standing out your resume from the crowd (Win Win)
 ---
 **Applicant Tracking Software (ATS)**
 
@@ -95,13 +95,13 @@ On average 1 job recieves 25 applications and out of 25 only top 1-2 candidates 
 > 
 > Content of resume should develop curiosity to explore more about you.
 
-##### Resume file format
+### Resume file format
 
 Alway sent PDF file of your resume, it is easy to transfer to different machines as well as it keeps the original layout, fonts and images.
 
 >Keep a word format or plain PDF format of your resume as well, because sometime recruiters wants to copy/paste resume to their own template, without your contact information and pass it to the employer.
 
-##### Prepare for the interview
+### Prepare for the interview
 In most cases there are two(2) initial interviews
 - Interview with Recruiter 
 - Interview with Employer

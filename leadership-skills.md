@@ -1,4 +1,4 @@
-#### How to Emphasize Leadership Skills on Your Resume
+## How to Emphasize Leadership Skills on Your Resume
 ---
 No matter whether you’re an entry-level or a C-level professional, there are certain traits that all leaders share and hiring managers will scour your resume looking for them.
 
@@ -10,7 +10,7 @@ When wanting to add leadership experience to your resume, consider the skills yo
 
 If you don’t have leadership experience in this arena, it might be a good idea to take the lead on a volunteer project or offer to chair a committee. If you’re not already a member of a professional organization or civic club, both are great ways to meet new people and contribute to your community while gaining valuable networking opportunities that can lead to leadership experience.
 
-##### Examples of Leadership Skills for Your Resume
+### Examples of Leadership Skills for Your Resume
 
 **Commitment**
 Even if you weren’t a manager or leader in any of your past roles, list any projects you spearheaded from conception to completion. Also, be sure to feature your commitment through a career history that reflects steady, long-term employment.
@@ -40,7 +40,7 @@ If you can obtain a positive quote or two about your teamwork skills from former
 **Vision**
 Your ability to see the scope and potential from a single project to a company’s long-term future and potential is a soft skill that’s difficult to demonstrate. However, the language you use in your executive summary and work description can convey your vision. Use meaningful, intentional language to describe your vision not only in the role for which you’re applying, but for the company as a whole.
 
-##### How to Show Your Leadership Experience on a Resume
+### How to Show Your Leadership Experience on a Resume
 
 **Highlight leadership in the job titles**
 The most obvious examples of leadership experience on a resume will be workplace management positions. Be sure to list your actual title, as well as the number of employees managed, and any major milestones achieved. This will ensure that your resume will pass through the applicant tracking system (ATS), which might be on alert for certain keywords associated with leadership and management skills

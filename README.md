@@ -17,7 +17,7 @@ Here are some statistics:
 
 So, whether you’re starting a job search or you’re thinking ahead, how can you prepare for your future career? Here are some tips.
 
-#### Research Growth Trends
+## Research Growth Trends
 Knowing the projected growth trends of your desired future career can help you map out a career trajectory. Find out what the different career levels are like and what you need to accomplish to move up the ladder. Research the average salary on sites like:
 - [PayScale](https://www.payscale.com/research/AU/Country=Australia/Salary)
 - [Salary.com](https://www.salary.com/) 
@@ -26,32 +26,32 @@ Knowing the projected growth trends of your desired future career can help you m
   
 To understand the earning potential and to help you with future interviews and salary negotiations.
 
-#### Find Potential Employers
+## Find Potential Employers
 Find out who the big players are in your desired industry. Who is hiring and who has a [company culture](./company-culture.md) that would mesh well with your professional and personal aspirations? Who offers the benefits and work flexibility options you need?
 
 Even if you’re not ready to apply, check out open positions at these companies to see what the requirements are. Follow any company that interests you on `LinkedIn`, `Twitter`, and `Instagram` to get an inside look at what the company is like.
 
-#### Talk to Other Professionals
+## Talk to Other Professionals
 Interacting and networking with others can keep you in the loop when it comes to your future career. And it doesn’t have to be done in the traditional networking meeting setting either. Consider joining industry groups, both virtual and in-person.
 
 Websites like [Meetup.com](https://www.meetup.com/) can be a good resource for finding these groups, even if most meet ups are done virtually during the pandemic. Many of these professional groups involve a weekly or monthly meeting where there may be a speaker or group topic to discuss. This can open you up to meeting people in a new career area and forge new connections.
 
 You can also schedule informational interviews to chat with professionals in your area of interest. Despite using the word “interview,” this sort of meeting is more of a get-together where you can talk with someone who is doing a job you’re interested in, or someone who is higher up in your industry. Ask how they got started in the field, what they’re working on, and what they like most and least about their job, and where they see growth opportunities–among other things.
 
-#### Learn
+## Learn
 Submersing yourself in your future career can make you a more knowledgeable job seeker when the time comes. Seek out related podcasts, blogs, YouTube content, and books. Get to know what the hot topics and issues are in the industry. Who are the leaders and the movers and shakers? Follow them on social media and interact when appropriate.
 
-#### Consider Volunteering, Interning, or Part-Time Work
+## Consider Volunteering, Interning, or Part-Time Work
 Getting hands-on experience in your desired future career area can be a huge plus. 
 
 Even if it’s not a full-time job, if you’re moving to a new career field, this experience can make a significant difference and position your for success.
 
-#### Professional Development
+## Professional Development
 Depending on the field, taking some classes, earning a degree, or completing a certification may be helpful or required to learn the most up-to-date information in the industry.
 
 This addition to your [resume](./how-to-write-resume.md) can show that you are serious about your new career and see the value in growing in your [skills](./leadership-skills.md).
 
-#### Evaluate Your Personal Brand
+## Evaluate Your Personal Brand
 Your [personal brand](./personal-brand.md)—how you [present your professional self](./self-marketing.md) online and in your job search documents—may need an overhaul. Are you using the most current industry verbiage in your professional social media bios? Are you following subject matter experts to stay on top of the trends? Is your resume updated to show how your skills work for your new career? Be sure to highlight your [transferrable skills](transferable-skills.md) and show how they can benefit a company.
 
 
