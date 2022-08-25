@@ -112,7 +112,7 @@ Write your best answer using STAR method
 
 >Remember, interview is bi directional 
 >
->Employer will ask about about services you can provide
+>Employer will ask about services you can provide
 >
 >Employee will ask about growth, learning, incentives and culture of the organisation
 
