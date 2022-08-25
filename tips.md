@@ -116,7 +116,7 @@ Write your best answer using STAR method
 >
 >Employee will ask about growth, learning, incentives and culture of the organisation
 
->**Note**: Interview is very important and crucial part, so be prepare and pay attention, if you are going to join a right organisation where you can grow or a toxic organisation before signing the contract (Analysing Company Culture is also available in this guide). 
+>**Note**: Interview is very important and crucial part, so be prepare and pay attention, if you are going to join a right organisation where you can grow or a toxic organisation, before signing the contract (Analysing Company Culture is also available in this guide). 
 
 **Interview with Recruiters**
 
