@@ -49,17 +49,17 @@ Even if it’s not a full-time job, if you’re moving to a new career field, th
 #### Professional Development
 Depending on the field, taking some classes, earning a degree, or completing a certification may be helpful or required to learn the most up-to-date information in the industry.
 
-This addition to your resume can show that you are serious about your new career and see the value in growing in your skills.
+This addition to your [resume](./how-to-write-resume) can show that you are serious about your new career and see the value in growing in your [skills](./leadership-skills.md).
 
 #### Evaluate Your Personal Brand
-Your personal brand—how you present your professional self online and in your job search documents—may need an overhaul. Are you using the most current industry verbiage in your professional social media bios? Are you following subject matter experts to stay on top of the trends? Is your resume updated to show how your skills work for your new career? Be sure to highlight your transferrable skills and show how they can benefit a company.
+Your [personal brand](./personal-brand.md)—how you [present your professional self](./self-marketing.md) online and in your job search documents—may need an overhaul. Are you using the most current industry verbiage in your professional social media bios? Are you following subject matter experts to stay on top of the trends? Is your resume updated to show how your skills work for your new career? Be sure to highlight your [transferrable skills](transferable-skills.md) and show how they can benefit a company.
 
 
 ## More to read:
 - [Tips](./tips.md)
+- [How to Write Resume](./how-to-write-resume)
 - [Company Culture](./company-culture.md)
 - [Create Elevation Pitch](./create-elevator-pitch.md)
-- [How to Write Resume](./how-to-write-resume)
 - [Leadership Skills](./leadership-skills.md)
 - [Personal Brand](./personal-brand.md)
 - [Self Marketing](./self-marketing.md)
