@@ -1,17 +1,17 @@
 ## How to Create a Winning Elevator Pitch
----
 
 Are you ready to interact with a potential employer at any given time? Do you have a memorable elevator pitch? Sharpening your elevator pitch can be the difference between capturing someone’s attention and letting the opportunity go to waste.
 
 “With an elevator pitch prepared, you can have confidence that you are armed with a great way to initiate a conversation with someone. It also helps formulate an answer for the very common interview question: ‘Tell me about yourself,'”
 
 ### What Is an Elevator Pitch?
+---
 An elevator pitch is essentially a short overview of who you are, what you’re interested in doing for work, and why you’re qualified for the position that you’re seeking.
 
 It’s called an elevator pitch because you should picture yourself serendipitously sharing an elevator ride with the person who can help you get whatever it is you want—a new job, a promotion, a job interview or meeting, etc. What would you say to them on that short elevator ride to get them to help you, and why should they care? That’s your elevator pitch.
 
 ### What to Consider when Creating an Elevator Pitch
-
+---
 **Structure and Template**
 “Your pitch needs and introduction, a summary of what you do, and a closing to wrap it up. Keep in mind, an elevator pitch is short, so your summary should be brief, you don’t want to include your entire work history. Pick one or two things that would be most relevant to your audience to share.
 
@@ -26,6 +26,7 @@ What do you want others to know about you? What do you bring to the table that i
 Write out what you want to get across, and try saying it out loud. What looks good on paper may turn out to be wordy or tongue-twisting when spoken. Keep crafting until the pitch flows out of your mouth. When you think you’ve got a winner, try it out on people you trust to gain feedback. The best pitches sound natural and conversational, so practice until you feel comfortable with the speech.
 
 ### Elevator Pitch Examples
+---
 Depending on where you’re at in your career and life, your elevator pitch may include different elements. Here are a few examples, based on common career and life stages.
 
 **For Moms**
