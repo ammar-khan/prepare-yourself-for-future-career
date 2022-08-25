@@ -1,5 +1,4 @@
 ## Transferable Skills That Companies Want
----
 
 Whether you’ve stayed in the same career field for decades or hopped around, you’ve likely developed and added to your professional skill set. Some of these skills are job-specific or technical, like understanding how to use certain platforms or tools, but others are transferable skills, such as strong leadership or critical thinking skills.
 
@@ -7,11 +6,13 @@ The pandemic has changed the work world in many ways, some temporary, and some l
 Though every worker has transferable skills, employers seek out certain transferable skills more than others. You may not have all of the “most wanted” must-have skills on your resume. But a deep dive into your experiences may reveal that you have far more of the sought after transferable skills than you thought.
 
 ### What Are Transferable Skills? Definition & Meaning
+---
 Transferable skills are exactly what they sound like: the skills that you use in every job, no matter the title or the field. Some transferable skills are hard skills, like coding, data analysis, or other technical skills, and some are soft skills like communication and relationship building.
 
 Think of transferable skills as part of your career tool belt. No matter what you learned in school or at a previous job, transferable skills are what every worker gains from each career experience, including volunteering, internships, freelance jobs, and more. They are the skills that you can use in any professional setting.
 
 ### Important Transferable Skills 
+---
 All transferable skills are important. However, employers seek out some key transferable skills
 
 **Problem Solving**
@@ -60,11 +61,13 @@ You may not be a technological wizard, but it’s a good idea to know your way a
 Management is so much more than assigning tasks. It’s also making sure people get things done and helping them overcome any stumbling blocks they may encounter. Management skills enable you to make sure that people are where they need to be and that they are completing their tasks effectively.
 
 ### Why Do Employers Seek Transferable Skills?
+---
 Employers know that workers with transferable skills have an extensive skill set they can tap into when needed. For example, someone with analytical skills can likely examine a problem from all sides and help break down the options that exist for solving it.
 
 Employers also seek transferable skills in their staff because, in general, employees with transferable skills have the tools that help them go beyond their job description. A customer service representative usually has good problem-solving skills. However, a customer service rep may do more with that transferable skill than solve problems for customers. They may also notice inefficiencies in how the team is assigned incoming calls and recommend a more efficient solution, saving the employer time and money.
 
 ### Why Are Transferable Skills Important to You?
+---
 As important as transferable skills are to employers, they are equally important to you and play a pivotal role in helping you grow your career.
 
 Taking your existing transferable skills and applying them to new challenges demonstrates to employers that you’re adaptable and versatile (which are also transferable skills!). The ability to transition from one role to another using these skills shows that you are flexible in an ever-changing world.
@@ -74,4 +77,5 @@ Many job descriptions list a series of skills the company wants from applicants.
 Especially if you’re changing careers, transferable skills play an essential role in helping you make that switch. When you’re shifting from one career field to a very different one (say, advertising account manager to preschool teacher), calling attention to your transferable skills helps demonstrate how, for example, the project management skills you used to create a winning ad campaign will help you design exciting and engaging lesson plans.
 
 ### Use Your Transferable Skills to Grow Your Career
+---
 Perhaps the most important aspect of transferable skills is that they are yours to keep! No matter where your career takes you or where you take your career, the transferable skills you develop will always be there for you, helping you adapt, change, and grow professionally.
