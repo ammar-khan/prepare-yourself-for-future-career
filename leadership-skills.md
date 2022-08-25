@@ -6,7 +6,7 @@ Leadership experience is most readily evident from managerial roles, but even if
 
 Selecting the most powerful words to describe your experience can make a huge impact for a potential employer.
 
-When wanting to add leadership experience to your resume, consider the skills you used in past roles to lead projects or teams. You can also consider things such as volunteer, civic, or social engagements.
+When wanting to add leadership experience to your [resume](./how-to-write-resume.md), consider the skills you used in past roles to lead projects or teams. You can also consider things such as volunteer, civic, or social engagements.
 
 If you don’t have leadership experience in this arena, it might be a good idea to take the lead on a volunteer project or offer to chair a committee. If you’re not already a member of a professional organization or civic club, both are great ways to meet new people and contribute to your community while gaining valuable networking opportunities that can lead to leadership experience.
 
