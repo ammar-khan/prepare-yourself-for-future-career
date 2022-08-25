@@ -4,7 +4,7 @@
 ##### Understanding of Requirements
 ---
 
-As human mind evolving continiously and generations and technologies are changing rapidly 
+As human mind evolving continiously; generations and technologies are changing rapidly 
 we need to make sure we will meet the mindset needed for the future.
 
 ---
