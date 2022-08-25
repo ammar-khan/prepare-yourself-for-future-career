@@ -127,6 +127,6 @@ Write your best answers using STAR method
 - Tell technical achievements using STAR method 
 - Tell people management achievements using STAR method 
 - Ask about oportunities within organisation, incentives, salary, culture of the company and ways of working.
-- Ask the outcome of the interview (this gives you an oportunity to get some indication about the outcome as well as it gives you opportunity to add more details to what employer is looking for.
+- Ask about the outcome of the interview (this gives you an oportunity to get some indication about the outcome as well as it gives you opportunity to add more details to what employer is looking for.
 - Negotiate if required
 
