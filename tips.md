@@ -44,7 +44,7 @@ Employer now a days need someone smart enough to use and analyse available infor
 Therefore a candidate who has more knowledge & understanding of moving pieces related to the job (including experience, education, certifications, tools etc.) 
 is ideal to connect all dots without waiting for someone to do the work
 
-Ideal candidates should have, can do attitute of learning new things.
+Ideal candidates should have, can do attitute of learning & doing new things.
 
 Having technical skills are not enough, ideal candidate should have people/personal skills or soft skills and these skills are more important for the employers now a days, because learning new skills are easier then changing behaviour.
 
