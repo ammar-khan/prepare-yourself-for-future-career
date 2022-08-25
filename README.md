@@ -65,6 +65,13 @@ Your [personal brand](./personal-brand.md)—how you [present your professional 
 - [Self Marketing](./self-marketing.md)
 - [Transferable Skills](transferable-skills.md)
 
+## Interview Questions Preparation
+- [Interview Top 10 Questions](https://hbr.org/2021/11/10-common-job-interview-questions-and-how-to-answer-them)
+- [Interview Top 7 Questions](https://www.robertwalters.com.au/career-advice/cv-and-interview-tips/how-to-master-these-7-common-interview-questions.html)
+- [Interview Questions](https://www.themuse.com/advice/interview-questions-and-answers)
+- [Interview Questions](https://www.roberthalf.com.au/career-advice/interview/common-job-interview-questions)
+- [Interview Closing Questions](https://www.indeed.com/career-advice/interviewing/closing-statements-in-an-interview)
+
 ---
 **References**
 - https://www.flexjobs.com/
