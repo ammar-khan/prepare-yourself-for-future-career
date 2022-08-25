@@ -1,4 +1,4 @@
-# Guide how to prepare yourself for the future career requirements
+# Guide how to prepare yourself for the future career
 
 When you think about your future career, what comes to mind? If you’re like many people, you might envision a steady stream of jobs in one industry, each one bringing you to the next level of success.
 
