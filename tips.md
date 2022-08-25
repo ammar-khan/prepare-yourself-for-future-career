@@ -120,13 +120,13 @@ Write your best answer using STAR method
 
 **Interview with Recruiters**
 
-- Prepare brief about you
-- Prepare 1-2 recent projects using STAR method
+- Tell brief about you
+- 1-2 recent projects using STAR method
 - Define and ask about opportunities, organisation, incentives, salary and culture you are looking for (This will help recruiter to understand your requirements).
 
 **Interview with Employer**
-- Prepare Brief about you (more technical)
-- Prepare technical achievements using STAR method 
+- Tell brief about you (more technical)
+- Tell technical achievements using STAR method 
 - Ask about oportunities within organisation, incentives, salary, culture of the company and ways of working.
 - Ask the outcome of the interview (this gives you an oportunity to get some indication about the outcome as well as it gives you opportunity to add more details to what employer is looking for.
 - Negotiate if required
