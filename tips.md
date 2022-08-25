@@ -92,6 +92,7 @@ On average 1 job recieves 25 applications and out of 25 only top 1-2 candidates 
 **Recruiter / HR person**
 
 > Resume design, layout and colours makes it unique and stand out
+> 
 > Content of resume should develop curiosity to explore more about you.
 
 ##### Resume file format
