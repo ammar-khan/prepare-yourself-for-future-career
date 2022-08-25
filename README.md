@@ -66,7 +66,7 @@ Your personal brand—how you present your professional self online and in your 
 - [Transferable Skills](transferable-skills.md)
 
 ---
-**Resource and Credits:**
+**References**
 - https://www.flexjobs.com/
 - https://resumegenius.com/blog/resume-help/resume-guidelines
 - https://hbr.org/2021/03/a-five-week-guide-to-getting-a-job
