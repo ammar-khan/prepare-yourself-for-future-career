@@ -9,12 +9,14 @@ we need to make sure we will meet the mindset needed for the future.
 
 ---
 **Stone Age**
+
 From 200,000,000 BC to 1,200 BC, humans transform materials like:
 - Stone tools
 - Bronze tools
 - Iron tools
 
 **Inductiral Age**
+
 From 1780 to 1973, humans transform energy like:
 - Water power
 - Steam power
@@ -22,9 +24,11 @@ From 1780 to 1973, humans transform energy like:
 - Combustion power
 
 **Technology & Information Age**
+
 From 1974 to 2008, humans were communication and storing information
 
 **Wisdom Age**
+
 From 2008 onwards, humans are computing and analysing information
 
 ---
