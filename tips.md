@@ -106,7 +106,7 @@ In most cases there are two(2) initial interviews
 
 Prepare yourself (mentioned in this guide) for the interview 
 
-Write your best answer using STAR method
+Write your best answers using STAR method
 
 >Remember, interview is bi directional 
 >
