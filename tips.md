@@ -12,7 +12,7 @@ From 200,000,000 BC to 1,200 BC, humans transform materials like:
 - Bronze tools
 - Iron tools
 
-**Inductiral Age**
+**Industrial Age**
 
 From 1780 to 1973, humans transform energy like:
 - Water power
