@@ -1,12 +1,10 @@
 ## Why to Prepare for Future Career
 
 ### Understanding of Requirements
----
 
 As human mind evolving continiously; generations and technologies are changing rapidly 
 we need to make sure we will meet the mindset needed for the future.
 
----
 **Stone Age**
 
 From 200,000,000 BC to 1,200 BC, humans transform materials like:
