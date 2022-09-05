@@ -1,5 +1,25 @@
 # Guide how to prepare yourself for the future career
 
+## What are the skills most valued by companies in 2025?
+
+The World Economic Forum’s (WEF) ‘Future of Jobs’ report estimates that 50% of the global workforce will need to reskill by 2025.
+
+The report warned that over the next five years, workers across the globe face the “double disruption” of job losses, caused by increased job automation and the economic impact of COVID 19, which could displace an estimated 85 million jobs.
+
+But the very technological disruption that is transforming jobs can also provide the key to creating them – and help us learn new skills. 
+
+Though 97 million new jobs are expected to be created during this period, displaced workers will need to be reskilled and upskilled to fill them.
+
+Many businesses focus on hard skills, but the events of the last three years have caused workplace leaders to realise that soft skills are becoming important, even critical, to the success of a business. 
+
+Below we present the top 15 skills and skill groups that global employers view as essential in the run-up to 2025.
+
+This report provides an opportunity for employers and leaders to better prepare themselves for emerging workforce trends and skill sets required for future jobs. As HR professionals view continuous learning as a joint responsibility between organisations and employees, this provides an opportunity for employees to start conversations about upskilling options. 
+
+To see the full report, follow the link: https://lnkd.in/gWd-_Zc
+
+---
+
 When you think about your future career, what comes to mind? If you’re like many people, you might envision a steady stream of jobs in one industry, each one bringing you to the next level of success.
 
 That type of career, however, isn’t as common as it once was. According to statistics, baby boomers held around 12 jobs by the time they turned 52, but half of those jobs were held between the ages of 18 and 24. People change jobs and external factors force jobs to change. The global pandemic, for example, has shown how quickly different career paths and company growth plans can be altered. While one company may be experiencing rapid growth, others may be in survival mode.
